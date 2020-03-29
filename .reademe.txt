@@ -9,3 +9,10 @@ SECOND HOUR
 -- completed more of the components from the front end 
 -- missing the data and i dont want to waste time with dummy data 
 -- so im going to work on the back end and try to finish the logic part of fetching 
+
+
+THIRD HOUR 
+-- just worked on the logic for the mytools-controller
+-- i have been using postman to test sending request to my backend server to make sure everything checks out 
+-- next i am going to finish the tools-controller and that should be quick cause the logic is similar to the mytools-controller 
+-- and finish up final touches on the front end before i can finish by putting in my fetch() in the frontend and make sure it works properly 
