@@ -1,3 +1,5 @@
+Message to Joe - You were not joking when you told me i need to basically learn how to become a fullstack eng/dev in less than a month (I did it in a week because of midterms though)! Haha
+
 FIRST HOUR
 -- completed the foundation and the direction i want the app towards 
 -- backend just got the mongoDB connected and the different routes i want the app to take when it comes to middleware 
@@ -23,3 +25,20 @@ FOURTH HOUR
 -- finished up the front end of fetching the tools to put on displays 
 -- all i need to do is finsih up the checkout and checkin buttons and make it possible to view each tool indiviually 
 -- trying to fix button to disable and able buttons depending on if a tool is checkout or not 
+
+
+FIFTH HOUR 
+-- got everything in place EXCEPT the OneToolItem.js file becasue i was planning on using it to display an individal tool but that didnt go as planned because i couldnt figure out how to take the respponse data back from fetch() in the Tool.js page 
+-- the check in and out buttons work in a sense that they add and remove from users tools DB but the disabled method for each buttons works when user clicks on a button first. i would of liked the checkin button to be disabled to begin with. also buttons reset when switching from one page to another which is not what i planned. 
+
+
+
+INFORMATION ABOUT THE DATABASE: 
+-- i used mongoose which works well with mongoDB, makes things easier 
+-- i manually added the tools, i dont know how to give you (Nur or Joe or whoever is looking at this code) access to my account to add in more tools
+-- but obvi you can see that its stored in a mongoDB because im not using any dummer variables in my code to store any data
+
+I like to make multiple folders and files to "outsource" some logic or code both in the backend and frontend. It just makes things alot easier for me to stay organized.
+
+I am not sure if there is anything else worth mentioning so if you have any questions or anything obviously feel free to reach out. 
+
