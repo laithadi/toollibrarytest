@@ -16,3 +16,10 @@ THIRD HOUR
 -- i have been using postman to test sending request to my backend server to make sure everything checks out 
 -- next i am going to finish the tools-controller and that should be quick cause the logic is similar to the mytools-controller 
 -- and finish up final touches on the front end before i can finish by putting in my fetch() in the frontend and make sure it works properly 
+
+
+FOURTH HOUR 
+-- finished up the backend and it works fine after double checking with postman for the send the requests 
+-- finished up the front end of fetching the tools to put on displays 
+-- all i need to do is finsih up the checkout and checkin buttons and make it possible to view each tool indiviually 
+-- trying to fix button to disable and able buttons depending on if a tool is checkout or not 

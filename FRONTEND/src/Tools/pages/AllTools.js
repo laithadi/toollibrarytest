@@ -7,7 +7,14 @@ const AllTools = () => {
 
   useEffect(() => {
     const fetchTools = async () => {
-
+      try {
+        const url = "http://localhost:2000";
+        const response = await fetch(url, {Headers:'Access-Control-Allow-Origin'});
+        const data = await response.json();
+        setToolsListt(data.tools);
+      } catch (err) {
+        console.log(err.message);
+      }
     };
     fetchTools();
   }, []);
