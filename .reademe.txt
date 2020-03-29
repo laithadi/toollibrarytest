@@ -1,3 +1,5 @@
-This is just a test for github
-
-I am just testing it again to double check 
+FIRST HOUR
+-- completed the foundation and the direction i want the app towards 
+-- backend just got the mongoDB connected and the different routes i want the app to take when it comes to middleware 
+-- next hour i will be focusing on the frontend to hopefully finish the general 'look' of the site
+-- still some bugs here and there but they are mainly from me setting up my files first just to give myself an idea of what i want to do 

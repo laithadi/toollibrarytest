@@ -1,0 +1,41 @@
+.tool-ul {
+    list-style-type: none;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .tool-item {
+      padding: 1rem;
+  }
+  
+  .tool-item img {
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+  }
+  
+  .tool-item h2 {
+    font-size: 1.5rem;
+    margin: 0rem 0rem 0rem 0rem;
+    font-weight: normal;
+    color: #ffd900;
+  }
+  
+  .container {
+      display: flex;
+  }
+  
+  .container a {
+      flex: 1;
+  }
+  
+  .container b{
+      flex: 2;
+  }
+  .container c{
+    flex: 3;
+    
+  }
+  .container d{
+    flex: 4;
+  }
